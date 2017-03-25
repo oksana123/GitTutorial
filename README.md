@@ -1,3 +1,3 @@
-# GitTutorial
+# GitTutorial 2
 
-Hello World!
+Hello users!
