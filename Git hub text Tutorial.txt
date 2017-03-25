@@ -1,0 +1,1 @@
+This text tutorial is for users who decide to use git hub
