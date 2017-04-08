@@ -3,6 +3,6 @@
 
 	1. Please remeber how to commit.
 	2. previous row 2 have been removed. 
-	3.All rules and tips you can find in text.file on your work desctop
+	3. All rules and tips you can find in text2.file on your work desktop. Remember this change is for task2
 
 
