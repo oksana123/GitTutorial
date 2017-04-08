@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 	This text tutorial is for users who decide to use git hub.
 
 	1. Please remeber how to commit.
 	2. previous row 2 have been removed. All rules and tips you can find in text.file on your work desctop
 
 
+=======
+his text tutorial is for users who decide to use git hub.
+1. Please remeber how to commit.
+2. Please remember that  you have to finish your homework
+>>>>>>> f923e3da141c5175455929ae72bf9411aa1652ea
