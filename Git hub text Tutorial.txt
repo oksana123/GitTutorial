@@ -1,7 +1,7 @@
 
 	This text tutorial is for users who decide to use git hub.
 
-	1. Please remeber how to commit. Commit1.
+	1. Please remeber how to commit. Commit1.The second change in Oksana_task1
 	2. previous row 2 have been removed. 
 	3. All rules and tips you can find in text.file on your work desctop
 
